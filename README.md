@@ -32,7 +32,7 @@ I am a Full Stack and Mobile Developer <img src="https://media.giphy.com/media/W
 - 🌱 I graduated in 2023 and continue to explore new technologies.
 - 💻 Web and Mobile development is my forte.
 - 🚀 I believe in writing clean, efficient, and scalable code.
-- 👨‍💻 Collaborating with others and contributing to open-source projects is my passion.
+- 👨‍💻 Sharing my ideas and knowledge through various articles and blogs is my passion.
 - ☕️ When I'm not coding, you'll find me outdoors or cooking something delicious.
 - 🌏 I'm on a journey of continuous learning and self-improvement.
 - 📁 This GitHub repository showcases my work and welcomes collaboration opportunities.
